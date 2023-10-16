@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\bin\Release\SimpleReflexAgents.exe.config
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\bin\Release\SimpleReflexAgents.exe
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\bin\Release\SimpleReflexAgents.pdb
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.Form1.resources
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.exe
+C:\Users\Administrator\source\repos\SimpleReflexAgents\SimpleReflexAgents\obj\Release\SimpleReflexAgents.pdb
